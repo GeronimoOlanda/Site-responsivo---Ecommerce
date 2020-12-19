@@ -9,3 +9,6 @@ Linguagens Utilizadas:
 
 Libs/Frameworks
 * Bootstrap
+
+Outros
+* Google Fonts
